@@ -11,8 +11,8 @@ Use Ivanti Patch (security controls) to run updates during deployment
  		Edwin ten Haaf T4Change 
 
 	   
-   	    Version: 0.1 changed to adapt to customer needs
- 		Version: 0.2 Force Windows Update to automatic (prevent errorcode 1058)
+   	Version: 0.1 changed to adapt to customer needs
+ 	Version: 0.2 Force Windows Update to automatic (prevent errorcode 1058)
         Version: 0.3 Switch to Ip adress instead of machinename to scan (Non domain joined, automated deployments)
 
        Setup
